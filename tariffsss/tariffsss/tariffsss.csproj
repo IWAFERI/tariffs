@@ -55,11 +55,29 @@
     <Compile Include="abonents.Designer.cs">
       <DependentUpon>abonents.cs</DependentUpon>
     </Compile>
+    <Compile Include="addtv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addtv.Designer.cs">
+      <DependentUpon>addtv.cs</DependentUpon>
+    </Compile>
     <Compile Include="adminedit.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="adminedit.Designer.cs">
       <DependentUpon>adminedit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="block.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="block.Designer.cs">
+      <DependentUpon>block.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chan.Designer.cs">
+      <DependentUpon>chan.cs</DependentUpon>
     </Compile>
     <Compile Include="check.cs">
       <SubType>Form</SubType>
@@ -84,8 +102,17 @@
     <EmbeddedResource Include="abonents.resx">
       <DependentUpon>abonents.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="addtv.resx">
+      <DependentUpon>addtv.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="adminedit.resx">
       <DependentUpon>adminedit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="block.resx">
+      <DependentUpon>block.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chan.resx">
+      <DependentUpon>chan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="check.resx">
       <DependentUpon>check.cs</DependentUpon>

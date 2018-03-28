@@ -58,8 +58,9 @@
             this.materialRaisedButton2.Primary = true;
             this.materialRaisedButton2.Size = new System.Drawing.Size(260, 23);
             this.materialRaisedButton2.TabIndex = 1;
-            this.materialRaisedButton2.Text = "Телевизоры";
+            this.materialRaisedButton2.Text = "Тарифы";
             this.materialRaisedButton2.UseVisualStyleBackColor = true;
+            this.materialRaisedButton2.Click += new System.EventHandler(this.materialRaisedButton2_Click);
             // 
             // materialRaisedButton3
             // 
@@ -72,6 +73,7 @@
             this.materialRaisedButton3.TabIndex = 2;
             this.materialRaisedButton3.Text = "Телеканалы";
             this.materialRaisedButton3.UseVisualStyleBackColor = true;
+            this.materialRaisedButton3.Click += new System.EventHandler(this.materialRaisedButton3_Click);
             // 
             // materialRaisedButton4
             // 
@@ -84,6 +86,7 @@
             this.materialRaisedButton4.TabIndex = 3;
             this.materialRaisedButton4.Text = "Блок каналов";
             this.materialRaisedButton4.UseVisualStyleBackColor = true;
+            this.materialRaisedButton4.Click += new System.EventHandler(this.materialRaisedButton4_Click);
             // 
             // materialRaisedButton5
             // 
@@ -94,7 +97,7 @@
             this.materialRaisedButton5.Primary = true;
             this.materialRaisedButton5.Size = new System.Drawing.Size(260, 23);
             this.materialRaisedButton5.TabIndex = 4;
-            this.materialRaisedButton5.Text = "Тарифные планы";
+            this.materialRaisedButton5.Text = "Телевизоры";
             this.materialRaisedButton5.UseVisualStyleBackColor = true;
             // 
             // materialRaisedButton6

@@ -27,5 +27,23 @@ namespace tariffsss
             abonents adAbonents = new abonents();
             adAbonents.Show();
         }
+
+        private void materialRaisedButton2_Click(object sender, EventArgs e)
+        {
+            addtv adTV = new addtv();
+            adTV.Show();
+        }
+
+        private void materialRaisedButton3_Click(object sender, EventArgs e)
+        {
+            chan ch = new chan();
+            ch.Show();
+        }
+
+        private void materialRaisedButton4_Click(object sender, EventArgs e)
+        {
+            block bk = new block();
+            bk.Show();
+        }
     }
 }
