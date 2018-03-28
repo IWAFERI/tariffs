@@ -34,6 +34,7 @@
             this.materialRaisedButton4 = new MaterialSkin.Controls.MaterialRaisedButton();
             this.materialRaisedButton5 = new MaterialSkin.Controls.MaterialRaisedButton();
             this.materialRaisedButton6 = new MaterialSkin.Controls.MaterialRaisedButton();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // materialRaisedButton1
@@ -78,7 +79,7 @@
             // materialRaisedButton4
             // 
             this.materialRaisedButton4.Depth = 0;
-            this.materialRaisedButton4.Location = new System.Drawing.Point(12, 157);
+            this.materialRaisedButton4.Location = new System.Drawing.Point(12, 186);
             this.materialRaisedButton4.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialRaisedButton4.Name = "materialRaisedButton4";
             this.materialRaisedButton4.Primary = true;
@@ -91,7 +92,7 @@
             // materialRaisedButton5
             // 
             this.materialRaisedButton5.Depth = 0;
-            this.materialRaisedButton5.Location = new System.Drawing.Point(12, 186);
+            this.materialRaisedButton5.Location = new System.Drawing.Point(12, 157);
             this.materialRaisedButton5.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialRaisedButton5.Name = "materialRaisedButton5";
             this.materialRaisedButton5.Primary = true;
@@ -99,6 +100,7 @@
             this.materialRaisedButton5.TabIndex = 4;
             this.materialRaisedButton5.Text = "Телевизоры";
             this.materialRaisedButton5.UseVisualStyleBackColor = true;
+            this.materialRaisedButton5.Click += new System.EventHandler(this.materialRaisedButton5_Click);
             // 
             // materialRaisedButton6
             // 
@@ -109,14 +111,24 @@
             this.materialRaisedButton6.Primary = true;
             this.materialRaisedButton6.Size = new System.Drawing.Size(260, 23);
             this.materialRaisedButton6.TabIndex = 5;
-            this.materialRaisedButton6.Text = "materialRaisedButton6";
+            this.materialRaisedButton6.Text = "Договоры";
             this.materialRaisedButton6.UseVisualStyleBackColor = true;
+            this.materialRaisedButton6.Click += new System.EventHandler(this.materialRaisedButton6_Click);
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(278, 70);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(217, 52);
+            this.richTextBox1.TabIndex = 6;
+            this.richTextBox1.Text = "В целях корректной работы программы вводите данные согласно списку слева. \n";
             // 
             // adminedit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 245);
+            this.ClientSize = new System.Drawing.Size(507, 249);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.materialRaisedButton6);
             this.Controls.Add(this.materialRaisedButton5);
             this.Controls.Add(this.materialRaisedButton4);
@@ -138,5 +150,6 @@
         private MaterialSkin.Controls.MaterialRaisedButton materialRaisedButton4;
         private MaterialSkin.Controls.MaterialRaisedButton materialRaisedButton5;
         private MaterialSkin.Controls.MaterialRaisedButton materialRaisedButton6;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }

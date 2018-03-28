@@ -30,7 +30,8 @@ namespace tariffsss
 
         private void materialRaisedButton2_Click(object sender, EventArgs e)
         {
-
+            check chk = new check();
+            chk.Show();
         }
     }
 }

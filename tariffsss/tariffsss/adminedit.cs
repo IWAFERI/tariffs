@@ -45,5 +45,17 @@ namespace tariffsss
             block bk = new block();
             bk.Show();
         }
+
+        private void materialRaisedButton5_Click(object sender, EventArgs e)
+        {
+            tvmodels tvs = new tvmodels();
+            tvs.Show();
+        }
+
+        private void materialRaisedButton6_Click(object sender, EventArgs e)
+        {
+            contr ctr = new contr();
+            ctr.Show();
+        }
     }
 }

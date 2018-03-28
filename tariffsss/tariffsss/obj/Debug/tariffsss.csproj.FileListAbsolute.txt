@@ -35,3 +35,5 @@ C:\Users\grive\Desktop\GITT\tariffsss\tariffsss\obj\Debug\tariffsss.exe
 C:\Users\grive\Desktop\GITT\tariffsss\tariffsss\obj\Debug\tariffsss.pdb
 C:\Users\grive\Desktop\GITT\tariffsss\tariffsss\obj\Debug\tariffsss.chan.resources
 C:\Users\grive\Desktop\GITT\tariffsss\tariffsss\obj\Debug\tariffsss.block.resources
+C:\Users\grive\Desktop\GITT\tariffsss\tariffsss\obj\Debug\tariffsss.tvmodels.resources
+C:\Users\grive\Desktop\GITT\tariffsss\tariffsss\obj\Debug\tariffsss.contr.resources
