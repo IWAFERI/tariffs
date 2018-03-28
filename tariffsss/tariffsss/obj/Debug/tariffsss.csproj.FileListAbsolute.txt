@@ -1,0 +1,17 @@
+C:\Users\grive\source\repos\tariffsss\tariffsss\bin\Debug\tariffsss.exe.config
+C:\Users\grive\source\repos\tariffsss\tariffsss\bin\Debug\tariffsss.exe
+C:\Users\grive\source\repos\tariffsss\tariffsss\bin\Debug\tariffsss.pdb
+C:\Users\grive\source\repos\tariffsss\tariffsss\bin\Debug\MaterialSkin.dll
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.csprojResolveAssemblyReference.cache
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.Form1.resources
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.Properties.Resources.resources
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.csproj.GenerateResource.Cache
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.csproj.CoreCompileInputs.cache
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.exe
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.pdb
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.menuadmin.resources
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.adminedit.resources
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.abonents.resources
+C:\Users\grive\source\repos\tariffsss\tariffsss\obj\Debug\tariffsss.check.resources
+C:\Users\grive\source\repos\tariffsss\tariffsss\bin\Debug\MySql.Data.dll
+C:\Users\grive\source\repos\tariffsss\tariffsss\bin\Debug\MySql.Data.xml
